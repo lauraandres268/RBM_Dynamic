@@ -26,7 +26,7 @@ Este repositorio contiene los archivos, datos y notebooks utilizados para los ex
 ├── 6_Junio.ipynb
 ---
 ´´´
-
+ </pre>
 ## NOTEBOOKS
 
 ### `1_Enero.ipynb`
