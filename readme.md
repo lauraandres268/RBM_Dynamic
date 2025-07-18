@@ -3,7 +3,7 @@
 Este repositorio contiene los archivos, datos y notebooks utilizados para los experimentos relacionados con el análisis de modelos de aprendizaje en MNIST y el modelo de Curie-Weiss.
 
 ## ESTRUCTURA
----
+```plaintext
 ├── dataset/
 │ └── *.gz # Archivos comprimidos de imágenes MNIST
 │
@@ -25,7 +25,7 @@ Este repositorio contiene los archivos, datos y notebooks utilizados para los ex
 ├── 5_Mayo_2.ipynb
 ├── 6_Junio.ipynb
 ---
-
+´´
 ## NOTEBOOKS
 
 ### `1_Enero.ipynb`
