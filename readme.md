@@ -2,7 +2,7 @@
 
 Este repositorio contiene los archivos, datos y notebooks utilizados para los experimentos relacionados con el análisis de modelos de aprendizaje en MNIST y el modelo de Curie-Weiss.
 
-#ESTRUCTURA=============================================================0
+## ESTRUCTURA
 ---
 ├── dataset/
 │ └── *.gz # Archivos comprimidos de imágenes MNIST
@@ -26,7 +26,7 @@ Este repositorio contiene los archivos, datos y notebooks utilizados para los ex
 ├── 6_Junio.ipynb
 
 
-##NOTEBOOKS=====================================================0
+## NOTEBOOKS
 
 ### `1_Enero.ipynb`
 - Entrenamientos con distintas configuraciones:
@@ -77,7 +77,7 @@ Este repositorio contiene los archivos, datos y notebooks utilizados para los ex
 
 
 
-## CONVENCIÓN NOMBRE ARCHIVO PARÁMETROS ## =====================================
+## CONVENCIÓN NOMBRE ARCHIVO PARÁMETROS ## 
  
 	/files/[metodo]_n[N_hidden]_b[Batch_size]_l[learning_rate*]_k[gibbs_steps]_e[epochs**]_T[*, ***].h5
 
@@ -89,7 +89,7 @@ Este repositorio contiene los archivos, datos y notebooks utilizados para los ex
 	
 	(La razon por lo que hago sí es para definirme la clase con los pámetros ya hechos y poder estudiarlos gráficamente)
 
-## CARGAR RBM DE ARCHIVO ##============================================================
+## CARGAR RBM DE ARCHIVO ##
 
 	Se necesitará definr el dataset y la escala de tiempos: 
 	
